@@ -1,4 +1,4 @@
-const API = "https://message-app-backend-vk3y.onrender.com/messages";
+const API = "https://messenger-backend-tmq2.onrender.com";
 async function sendMessage() {
   const msg = document.getElementById("msg").value;
 
